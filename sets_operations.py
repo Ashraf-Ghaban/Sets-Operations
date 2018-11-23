@@ -1,10 +1,5 @@
 """
-Created on Thu Sep  5 09:02:53 2018
 
-===========================================================
-================     Ashraf Haj Ghaban     ================
-===========================================================
- 
  This class will apply differnet operations on two sets of intergers
  as well as on cartesian products.
 
